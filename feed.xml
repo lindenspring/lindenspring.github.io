@@ -3,7 +3,7 @@
     <title>The Upstate Land Company</title>
     <link href="https://upstateland.co/feed.xml" rel="self" />
     <link href="https://upstateland.co" />
-    <updated>2023-11-08T13:17:06-06:00</updated>
+    <updated>2023-11-08T13:28:55-06:00</updated>
     <author>
         <name>Stephen Canner</name>
     </author>
@@ -17,16 +17,15 @@
         <link href="https://upstateland.co/thank-you-for-contacting-the-upstate-land-company.html"/>
         <id>https://upstateland.co/thank-you-for-contacting-the-upstate-land-company.html</id>
 
-        <updated>2023-11-08T13:17:06-06:00</updated>
+        <updated>2023-11-08T13:28:55-06:00</updated>
             <summary>
                 <![CDATA[
-                    Your submission has been received and we'll reply soon. If you chose to communicate by text or email, or if you just want to get a jump start on our phone conversation, please fill out the following form so I can get right to work&hellip;
+                    var JFL_233077297060861 = new JotformFeedback({ formId: '233077297060861', base: 'https://form.jotform.com/', windowTitle: 'Contact Form', backgroundColor: '#347856', fontColor: '#FFFFFF', type: '0', height: 500, width: 700, openOnLoad: false }); var ifr = document.getElementById("lightbox-233077297060861"); if (ifr) { var src = ifr.src; var iframeParams = []; if (window.location.href && window.location.href.indexOf("?") >&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Your submission has been received and we'll reply soon.  If you chose to communicate by text or email, or if you just want to get a jump start on our phone conversation, please fill out the following form so I can get right to work on evaluating your land.<br><br></p>
-<p>
+                <p>
 <script src="https://form.jotform.com/static/feedback2.js" type="text/javascript"></script>
 <script type="text/javascript">
         var JFL_233077297060861 = new JotformFeedback({
@@ -125,6 +124,7 @@
     }
     </script>
 <a class="btn lightbox-233077297060861" style="margin-top: 16px; font-size: 14px; text-decoration: none; cursor: pointer; display: block; padding: 10px; font-family: inherit; text-shadow: none; user-select: none; transition: all,.1s,ease-in; background-color: #347856; border: 1px solid #347856; color: #ffffff; margin-left: auto; margin-right: auto; width: 40%;"> Land Description Questionnaire </a></p>
+<p>Your submission has been received and we'll be in touch soon.  If you chose to communicate by text or email, or if you just want to get a jump start on our phone conversation, please hit the above button and fill out another form so I can get right to work on evaluating your land.</p>
             ]]>
         </content>
     </entry>
