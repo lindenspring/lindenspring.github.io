@@ -3,12 +3,32 @@
     <title>The Upstate Land Company</title>
     <link href="https://upstateland.co/feed.xml" rel="self" />
     <link href="https://upstateland.co" />
-    <updated>2023-11-09T09:15:12-06:00</updated>
+    <updated>2023-11-09T09:20:14-06:00</updated>
     <author>
         <name>Stephen Canner</name>
     </author>
     <id>https://upstateland.co</id>
 
+    <entry>
+        <title>Thank you!</title>
+        <author>
+            <name>Stephen Canner</name>
+        </author>
+        <link href="https://upstateland.co/thank-you.html"/>
+        <id>https://upstateland.co/thank-you.html</id>
+
+        <updated>2023-11-09T09:20:14-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Thank you for submitting the Land Description Questionnaire. I'll get right to work on evaluating your property and will be in touch soon.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Thank you for submitting the Land Description Questionnaire.  I'll get right to work on evaluating your property and will be in touch soon.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Land Description Questionnaire</title>
         <author>

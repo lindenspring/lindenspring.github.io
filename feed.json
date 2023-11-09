@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://upstateland.co/thank-you.html",
+            "url": "https://upstateland.co/thank-you.html",
+            "title": "Thank you!",
+            "summary": "Thank you for submitting the Land Description Questionnaire. I'll get right to work on evaluating your property and will be in touch soon.",
+            "content_html": "<p>Thank you for submitting the Land Description Questionnaire.  I'll get right to work on evaluating your property and will be in touch soon.</p>",
+            "author": {
+                "name": "Stephen Canner"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-09T09:20:14-06:00",
+            "date_modified": "2023-11-09T09:20:14-06:00"
+        },
+        {
             "id": "https://upstateland.co/land-description-questionnaire.html",
             "url": "https://upstateland.co/land-description-questionnaire.html",
             "title": "Land Description Questionnaire",
