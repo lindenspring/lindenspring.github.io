@@ -5,7 +5,7 @@
     "home_page_url": "https://upstateland.co",
     "feed_url": "https://upstateland.co/feed.json",
     "user_comment": "",
-    "icon": "https://upstateland.co/media/website/LeafLogo-UpstateLandCompany-reversed.png",
+    "icon": "https://upstateland.co/media/website/LeafLogo-UpstateLandCompany-rounded-reversed-smaller-leaf-2.svg",
     "author": {
         "name": "Stephen Canner"
     },
@@ -64,7 +64,7 @@
             "tags": [
             ],
             "date_published": "2023-07-05T20:12:04-04:00",
-            "date_modified": "2024-01-07T12:44:41-05:00"
+            "date_modified": "2024-01-07T23:37:30-05:00"
         }
     ]
 }
